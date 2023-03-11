@@ -1,6 +1,5 @@
-# Maja Abramowicz - Portfolio
-### Hello, this is my first repository!
-
+# Portfolio
+![This is an image](https://i.postimg.cc/P54PfDGq/big-sale-2.png)
 
 ## Tech skills and tools 
 - [x] Fundamentials of software testing
