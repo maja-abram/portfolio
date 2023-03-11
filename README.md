@@ -3,8 +3,10 @@
 
 ## Tech skills and tools 
 - [x] Fundamentials of software testing
-- [x] Excel
 - [x] SQL - basic level
+- [x] Mantis
+- [x] TestLink
+- [x] Excel
 
 ## In progress
 - [ ] Python - basic level
