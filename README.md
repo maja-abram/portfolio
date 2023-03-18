@@ -9,6 +9,7 @@
 - [x] Excel
 
 ## In progress
+- [ ] ISTQB FL certification
 - [ ] Python - basic level
 - [ ] SQL - intermediate level
 - [ ] Jira
