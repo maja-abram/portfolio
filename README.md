@@ -3,13 +3,13 @@
 
 ## Tech skills and tools 
 - [x] Fundamentials of software testing
+- [x] ISTQB FL certification
 - [x] SQL - basic level
 - [x] Mantis Bug Tracker
 - [x] TestLink
 - [x] Excel
 
 ## In progress
-- [ ] ISTQB FL certification
 - [ ] Python - basic level
 - [ ] SQL - intermediate level
 - [ ] Jira
