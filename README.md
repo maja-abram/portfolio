@@ -20,5 +20,6 @@
 ## Courses and trainings
 * [Fundamentials of Software Testing - QATestLab Course](https://drive.google.com/file/d/1U0Re62-51UT7KzOMadCLss5DWqEvIsaz/view)
 * [Kurs SQL - bazy od podstaw - StrefaKursów.pl](https://platforma.strefakursow.pl/p/certificate/hash/fquc7tfb9tkwc8804g4oc0g440o8w4s)
-* [30 days challenge Postman](coming soon)
+* [Python - kurs dla zielonych](https://platforma.strefakursow.pl/p/certificate/hash/a73pjk9xyk8w04go8cksgwswwgg8cg8)
+* [30 days challenge Postman] (coming soon)
 * uTest Academy
