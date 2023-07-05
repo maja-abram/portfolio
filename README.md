@@ -6,8 +6,8 @@
 - [x] ISTQB FL certification
 - [x] SQL - basic level
 - [x] Python - basic level
-- [x] Mantis Bug Tracker
 - [x] Jira
+- [x] Mantis Bug Tracker
 - [x] TestLink
 - [x] Excel
 
