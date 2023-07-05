@@ -15,6 +15,8 @@
 - [ ] Postman
 - [ ] SQL - intermediate level
 
+## Projects
+* [30 days challenge Postman] (coming soon)
 
 ## Courses and trainings
 * [Fundamentials of Software Testing - QATestLab Course](https://drive.google.com/file/d/1U0Re62-51UT7KzOMadCLss5DWqEvIsaz/view)
@@ -22,5 +24,4 @@
 * [Python - kurs dla zielonych](https://platforma.strefakursow.pl/p/certificate/hash/a73pjk9xyk8w04go8cksgwswwgg8cg8)
 * uTest Academy
 
-## Projects
-* [30 days challenge Postman] (coming soon)
+
