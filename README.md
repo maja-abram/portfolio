@@ -19,6 +19,7 @@
 
 ## Projects
 * [30 days challenge Postman] (coming soon)
+* [Trello - testing in Postman] (coming soon)
 
 
 ## Courses and trainings
