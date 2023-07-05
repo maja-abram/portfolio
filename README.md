@@ -11,12 +11,15 @@
 - [x] TestLink
 - [x] Excel
 
+
 ## In progress
 - [ ] Postman
 - [ ] SQL - intermediate level
 
+
 ## Projects
 * [30 days challenge Postman] (coming soon)
+
 
 ## Courses and trainings
 * [Fundamentials of Software Testing - QATestLab Course](https://drive.google.com/file/d/1U0Re62-51UT7KzOMadCLss5DWqEvIsaz/view)
