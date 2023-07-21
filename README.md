@@ -29,3 +29,8 @@
 * uTest Academy
 
 
+## Webinars/ Workshops QA
+* Zrozumienie Rest API jako wstęp do automatyzacji Rest Assured Java - [CANTestIT](https://www.cantest.it)
+  
+
+
